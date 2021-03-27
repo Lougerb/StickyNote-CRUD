@@ -39,3 +39,21 @@
     </ul>
   </li>
 </ol>
+
+<h1>Author's Note</h1>
+<h3>Things I want to add and change</h3>
+<ul>
+  <li>Drop down menu
+    <ul>
+      <li>Style</li>
+      <li>Animation</li>
+    </ul>
+  </li>
+  <li>Main Editor's
+    <ul>
+      <li>Style</li>
+      <li>Animation</li>
+    </ul>
+  </li>
+  <li>Animation when editor is about to generate a new Note</li>
+</ul>
