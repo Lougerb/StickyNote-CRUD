@@ -1,4 +1,4 @@
-<h1>Notepad App</h1>
+<h1>Introduction</h1>
 <p>Hi, Louein here. This project's purpose is to show the product of what I've learn so far in HTML, CSS andJavascript</p>
 <p>At this point, here's what I've learned so far to able to make this project:</p>
 <ol>
